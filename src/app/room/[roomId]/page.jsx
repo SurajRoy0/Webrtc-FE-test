@@ -1,4 +1,4 @@
-import RoomScreen from "@/containers/RoomScreen";
+import RoomScreen from "../../../containers/RoomScreen";
 
 
 export default function Room () {

@@ -1,7 +1,7 @@
 
 import localFont from "next/font/local";
 import "./globals.css";
-import { SocketProvider } from "@/context/socketProvider";
+import { SocketProvider } from "../context/SocketProvider";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
