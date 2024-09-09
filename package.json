@@ -8,6 +8,10 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "build": {
+    "command": "next build",
+    "publish": "out"
+  },
   "dependencies": {
     "next": "^14.2.8",
     "react": "^18.3.1",
