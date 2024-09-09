@@ -1,6 +1,6 @@
 "use client";
 
-import { useSocket } from "@/context/socketProvider";
+import { useSocket } from "../context/SocketProvider";
 import React, { useCallback, useEffect, useState } from "react";
 import ReactPlayer from "react-player";
 import PeerService from "@/service/peer";

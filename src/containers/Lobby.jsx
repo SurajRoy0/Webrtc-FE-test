@@ -1,7 +1,7 @@
 
 "use client"
 
-import { useSocket } from '@/context/socketProvider';
+import { useSocket } from '../context/SocketProvider';
 import { useRouter } from 'next/navigation';
 import { useCallback, useEffect, useState } from 'react';
 
